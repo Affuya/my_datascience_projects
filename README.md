@@ -1,1 +1,1 @@
-# my_datascience_projects
+The purpose of this project is essentially a refresher on command line and version control. Actual project to follow once this has been completed
